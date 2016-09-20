@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "c282d6f3-68fb-4341-b7ba-776b59be282a",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "c282d6f3-68fb-4341-b7ba-776b59be282a",
+    "group": { "default": "Under Development" },
+    "title": { "default": "DisplayList" },
+    "description": { "default": "Display Data from a SharePoint List" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "DisplayList",
+      "listTitle": "Announcements"
+    }
+  }]
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "display-list-web-part-client-side-solution",
+    "id": "2e1158bf-f1ce-4433-9fa6-adfec3274e54",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "display-list-web-part.spapp"
+  }
+}

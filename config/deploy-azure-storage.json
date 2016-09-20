@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "<!-- STORAGE ACCOUNT NAME -->",
+  "container": "display-list-web-part",
+  "accessKey": "<!-- ACCESS KEY -->"
+}
